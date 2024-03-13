@@ -33,3 +33,5 @@ document.addEventListener('keydown', function(event) {
       // Call your JavaScript function here
       displayText();
     }});
+
+setInterval(displayText, 5000); // Updates every 3 seconds
