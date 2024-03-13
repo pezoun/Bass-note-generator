@@ -1,6 +1,6 @@
 Random note thread generator on with a simple web UI.
 
-Hosted [here on git]([https://pezy08.github.io/Noty-generator/](https://pezy08.github.io/Bass-note-generator/))
+Hosted [here on git](https://pezy08.github.io/Bass-note-generator/)
 
 hope it helps you learn 🤍
 
