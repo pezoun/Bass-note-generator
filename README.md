@@ -1,6 +1,6 @@
 Random note thread generator on with a simple web UI.
 
-Hosted on:
+Hosted [here on git](https://pezy08.github.io/Noty-generator/)
 
 hope it helps you learn 🤍
 
