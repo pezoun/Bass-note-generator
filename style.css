@@ -1,10 +1,10 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: "Montserrat", sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #f4f4f4;
+    background-color: #0a154e;
 }
 
 .container {
@@ -12,17 +12,19 @@ body {
 }
 
 h1 {
-    color: #333;
-    font-size: 10vw;
+    color: #6278ea;
+    font-size: 8vw;
+    margin-top: 15px;
 }
 
 h2 {
-    color: #333;
-    font-size: 8vw;
+    color: #9c9bf8;
+    font-size: 5vw;
+    font-weight: 700;
 }
 
 p {
-    color: #333;
+    color: #6278ea;
     margin-bottom: 20px;
     font-size: 3vw;
 }
